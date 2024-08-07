@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Transactions_test_task.props" />
+</Project>

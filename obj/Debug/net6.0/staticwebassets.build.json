@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pEM3yy6FElPQW2pHB21ZXntu0tsNdGkoEMPNs3cUKS8=",
+  "Source": "Transactions_test_task",
+  "BasePath": "_content/Transactions_test_task",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
